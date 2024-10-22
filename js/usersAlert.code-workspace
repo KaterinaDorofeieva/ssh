@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../щось прикольне/.git"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "usersAlert"
+	}
+}
